@@ -1,0 +1,39 @@
+
+[audacious]
+show_numbers_in_pl=TRUE
+
+[audgui]
+about_win=667,358,582,351
+filebrowser_win=622,264,672,480
+filesel_path=/media/tsugu/Media Drive/Music/Fallout 4 (Soundtrack)
+info_win=684,323,580,361
+no_confirm_playlist_delete=TRUE
+playlist_export_win=568,211,780,585
+playlist_import_win=568,211,780,585
+playlist_path=file:///media/tsugu/Media%20Drive/Music
+
+[gtkui]
+column_widths=10,275,175,10,175,175,10,100,36,10,275,275,275,10,275
+player_height=489
+player_width=956
+player_x=960
+player_y=25
+
+[gtkui-layout]
+item0_name=Playlist Manager
+item0_pos=-1,814,406,284,188
+item1_name=Spectrum Analyzer
+item1_pos=-1,0,0,280,184
+item2_name=Blur Scope
+item2_pos=-1,0,0,284,188
+item3_name=Search Tool
+item3_pos=0,-1,-1,215,925
+item4_name=Album Art
+item4_pos=-1,0,0,280,184
+item_count=5
+
+[search-tool]
+path=/home/tsugu/media/tsugu/1026E79926E77E5A/Music
+
+[skins]
+skin=/usr/share/audacious/Skins/Default
